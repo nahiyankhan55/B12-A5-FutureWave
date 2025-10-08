@@ -4,8 +4,9 @@ import FooterSection from "./Components/Shared/FooterSection";
 
 const App = () => {
   return (
-    <div className="max-w-[1440px] w-full flex flex-col items-center h-screen">
+    <div className="max-w-[1440px] w-full flex flex-col items-center h-screen mx-auto">
       <NavbarSection></NavbarSection>
+      <div className="py-10"></div>
       <div className="w-full flex-1">
         <Outlet></Outlet>
       </div>
