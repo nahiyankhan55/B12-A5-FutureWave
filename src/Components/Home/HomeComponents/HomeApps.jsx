@@ -42,7 +42,7 @@ const HomeApps = () => {
                 src={app?.image}
                 alt={app?.title}
               />
-              <h3 className="md:text-xl text-lg font-bold text-gray-900">
+              <h3 className="md:text-xl text-lg font-bold text-gray-900 w-full text-left">
                 {app?.title}
               </h3>
               <div className="flex items-center justify-between">
@@ -59,7 +59,10 @@ const HomeApps = () => {
           ))}
         </div>
       )}
-      <Link className="text-lg font-bold text-white bg-gradient-to-l from-purple-500 to-purple-800 py-2 px-6 mx-auto rounded-lg hover:from-indigo-700 transition duration-300 hover:shadow-md">
+      <Link
+        to={"/apps"}
+        className="text-lg font-bold text-white bg-gradient-to-l from-purple-500 to-purple-800 py-2 px-6 mx-auto rounded-lg hover:from-indigo-700 transition duration-300 hover:shadow-md"
+      >
         Show All
       </Link>
     </div>

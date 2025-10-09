@@ -25,7 +25,7 @@ const Header = () => {
           href="https://play.google.com/store/games?device=windows"
           target="_blank"
         >
-          <IoLogoGooglePlaystore className="sm:text-xl text-lg"></IoLogoGooglePlaystore>
+          <IoLogoGooglePlaystore className="sm:text-xl text-lg text-teal-600"></IoLogoGooglePlaystore>
           Play Store
         </a>
         <a
@@ -33,7 +33,7 @@ const Header = () => {
           href="https://www.apple.com/store"
           target="_blank"
         >
-          <FaApple className="sm:text-xl text-lg"></FaApple>
+          <FaApple className="sm:text-xl text-lg text-gray-800"></FaApple>
           Contribution
         </a>
       </div>
