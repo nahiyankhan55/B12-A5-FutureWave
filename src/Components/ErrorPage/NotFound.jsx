@@ -5,7 +5,7 @@ const NotFound = () => {
   return (
     <div className="flex flex-col items-center w-full gap-2 py-20 text-center">
       <div className="max-w-2xl mx-auto">
-        <img src={notFoundImg} alt="not-found" />
+        <img className="w-full" src={notFoundImg} alt="not-found" />
       </div>
       <h2 className="lg:text-4xl sm:text-3xl text-2xl font-bold text-gray-900 mt-5">
         OPPS!!! APP NOT FOUND
