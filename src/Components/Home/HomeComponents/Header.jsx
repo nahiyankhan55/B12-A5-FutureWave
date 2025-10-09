@@ -30,7 +30,7 @@ const Header = () => {
         </a>
         <a
           className="py-2 sm:px-4 px-3 rounded-md flex items-center gap-1 font-semibold sm:text-lg text-xs text-gray-600 hover:text-black hover:scale-105 duration-300 hover:bg-gray-50 transition border-2"
-          href="https://github.com/nahiyankhan55"
+          href="https://www.apple.com/store"
           target="_blank"
         >
           <FaApple className="sm:text-xl text-lg"></FaApple>
