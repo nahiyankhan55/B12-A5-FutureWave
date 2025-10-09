@@ -1,0 +1,290 @@
+[
+  {
+    "image": "https://i.ibb.co.com/pjzrzDdF/1.png",
+    "title": "VibeStream",
+    "companyName": "EchoFlow Studios",
+    "id": 1,
+    "description": "VibeStream offers endless music and podcast access. Build custom playlists, enjoy offline mode, and discover new tracks daily. With smart AI suggestions and zero ads, it’s your personal audio companion for every mood, moment, and journey.",
+    "size": 85,
+    "reviews": 21560,
+    "ratingAvg": 4.6,
+    "downloads": 1420000,
+    "ratings": [
+      { "name": "1 star", "count": 230 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 8965 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/9mdhsmqd/2.webp",
+    "title": "FocusTrack",
+    "companyName": "NextStep Digital",
+    "id": 2,
+    "description": "FocusTrack is your digital productivity assistant for managing projects and daily tasks. Plan smarter, collaborate seamlessly, and stay on top of goals with reminders and visual tracking. Ideal for professionals, students, and teams who need structure and clarity.",
+    "size": 72,
+    "reviews": 10420,
+    "ratingAvg": 4.4,
+    "downloads": 1120000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 7060 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KjxwRB7M/3.png",
+    "title": "PulseFit Pro",
+    "companyName": "CoreVital",
+    "id": 3,
+    "description": "PulseFit Pro is your all-in-one fitness tracker. Monitor calories, workouts, and activity levels with real-time insights. Set goals and let AI guide your health journey. Whether you’re walking or weightlifting, stay motivated and on track every step.",
+    "size": 95,
+    "reviews": 17860,
+    "ratingAvg": 4.8,
+    "downloads": 1680000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 3900 },
+      { "name": "5 star", "count": 12170 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gFrtDjwZ/4.jpg",
+    "title": "Pixloop",
+    "companyName": "VisionCraft Media",
+    "id": 4,
+    "description": "Pixloop lets you capture, filter, and share moments with ease. Tell your story through creative tools, secure sharing, and instant uploads. Perfect for influencers and everyday users alike, it’s social photo-sharing reimagined with style and control.",
+    "size": 110,
+    "reviews": 36750,
+    "ratingAvg": 4.5,
+    "downloads": 3750000,
+    "ratings": [
+      { "name": "1 star", "count": 640 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 8700 },
+      { "name": "5 star", "count": 21360 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Y7dV5mWT/5.png",
+    "title": "SkillRise",
+    "companyName": "LearnNest Academy",
+    "id": 5,
+    "description": "SkillRise provides top-notch online learning with expert-led courses in business, design, tech, and more. Track progress, earn certificates, and unlock new career paths. Whether beginner or advanced, there’s always something new to master and explore.",
+    "size": 130,
+    "reviews": 30250,
+    "ratingAvg": 4.7,
+    "downloads": 2350000,
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 670 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 7200 },
+      { "name": "5 star", "count": 18710 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Gfgg2Mps/6.jpg",
+    "title": "CloudPlay Arena",
+    "companyName": "NovaPlay Interactive",
+    "id": 6,
+    "description": "CloudPlay Arena delivers instant cloud gaming with zero downloads. Play top titles, compete globally, and stream in real time. With smooth performance and achievement tracking, it’s designed for serious gamers who want everything, anytime.",
+    "size": 180,
+    "reviews": 49200,
+    "ratingAvg": 4.3,
+    "downloads": 5800000,
+    "ratings": [
+      { "name": "1 star", "count": 940 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 3400 },
+      { "name": "4 star", "count": 9800 },
+      { "name": "5 star", "count": 29760 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLFQcGFY/7.jpg",
+    "title": "QuickBite",
+    "companyName": "FastFork Tech",
+    "id": 7,
+    "description": "QuickBite connects you with local restaurants and fast delivery options. Order meals, track drivers, and enjoy discounts. With seamless checkout and real-time updates, it’s the most reliable way to satisfy your cravings on demand.",
+    "size": 90,
+    "reviews": 18950,
+    "ratingAvg": 4.6,
+    "downloads": 2700000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 5600 },
+      { "name": "5 star", "count": 11100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwrVs3Qx/8.png",
+    "title": "HealthMate+",
+    "companyName": "CareNova Systems",
+    "id": 8,
+    "description": "HealthMate+ offers digital healthcare at your fingertips. Book appointments, get prescriptions, and store medical history securely. With expert advice and wellness tips, it’s built for safe, smart, and stress-free health management anytime, anywhere.",
+    "size": 100,
+    "reviews": 9700,
+    "ratingAvg": 4.7,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5050 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fVLY0KD8/9.png",
+    "title": "Roamly",
+    "companyName": "WanderTech",
+    "id": 9,
+    "description": "Roamly makes travel planning effortless. Find deals, book hotels, and explore hidden gems through curated guides. With itinerary tools and local insights, every trip becomes more organized, affordable, and unforgettable—whether you're flying solo or with friends.",
+    "size": 120,
+    "reviews": 21050,
+    "ratingAvg": 4.5,
+    "downloads": 1550000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 12500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pmfQN17/10.jpg",
+    "title": "MallLink",
+    "companyName": "RetailBridge",
+    "id": 10,
+    "description": "MallLink aggregates top brands in one marketplace. Browse fashion, electronics, and more with tailored deals and secure checkout. Enjoy easy returns, curated picks, and expert recommendations to make your shopping smarter and more enjoyable every time.",
+    "size": 150,
+    "reviews": 37600,
+    "ratingAvg": 4.4,
+    "downloads": 4300000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 3100 },
+      { "name": "4 star", "count": 9700 },
+      { "name": "5 star", "count": 20300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TqK8D4Zk/11.webp",
+    "title": "StreamSphere",
+    "companyName": "VistaWave Media",
+    "id": 11,
+    "description": "StreamSphere delivers movies, series, and documentaries in HD with personalized recommendations. Add to watchlists, explore genres, and enjoy uninterrupted playback. It’s your all-in-one entertainment universe, ready whenever and wherever you want to watch.",
+    "size": 180,
+    "reviews": 52000,
+    "ratingAvg": 4.6,
+    "downloads": 5900000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 3200 },
+      { "name": "4 star", "count": 11000 },
+      { "name": "5 star", "count": 32600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/BHZP2xdm/12.png",
+    "title": "NewsPulse",
+    "companyName": "InfoCurrent",
+    "id": 12,
+    "description": "NewsPulse delivers breaking news across politics, sports, and technology. Personalize your feed, save stories, and get instant alerts. Minimal ads, trusted sources, and clarity make it easier to stay informed and ahead of the curve in a fast-changing world.",
+    "size": 70,
+    "reviews": 13200,
+    "ratingAvg": 4.3,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 6600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/JFnKv0qp/13.webp",
+    "title": "SecureBank Mobile",
+    "companyName": "FinanceGuard Co.",
+    "id": 13,
+    "description": "SecureBank Mobile enables safe and easy mobile banking. Transfer funds, pay bills, and manage cards with biometric login and 24/7 support. Designed for convenience and security, it brings full financial control to your fingertips anytime, anywhere.",
+    "size": 95,
+    "reviews": 11800,
+    "ratingAvg": 4.8,
+    "downloads": 1020000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 7300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/v4YQg2dP/14.jpg",
+    "title": "ClimaVision",
+    "companyName": "SkyGuard Analytics",
+    "id": 14,
+    "description": "ClimaVision provides hyperlocal weather forecasts, alerts, and visual maps. View hourly updates, see storm warnings, and plan ahead with precision. Beautiful interfaces and accurate data combine to make your daily plans safer and more confident.",
+    "size": 60,
+    "reviews": 10500,
+    "ratingAvg": 4.4,
+    "downloads": 930000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 5180 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/BKgSBGFx/15.png",
+    "title": "NoteCloud",
+    "companyName": "SyncData Labs",
+    "id": 15,
+    "description": "NoteCloud helps capture ideas, to-dos, and notes across all your devices with instant sync. Save text, images, and voice memos. Its simple UI and offline support ensure you never lose a thought—perfect for students, professionals, and creatives alike.",
+    "size": 55,
+    "reviews": 9600,
+    "ratingAvg": 4.5,
+    "downloads": 1040000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 5050 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/q64S9F3/16.webp",
+    "title": "SystemBoost",
+    "companyName": "OptiTech Solutions",
+    "id": 16,
+    "description": "SystemBoost optimizes your device by clearing junk files, freeing memory, and balancing performance. Use one-tap cleanup, app locking, and smart cooling. It keeps your system running smoothly, securely, and reliably throughout the day.",
+    "size": 40,
+    "reviews": 16400,
+    "ratingAvg": 4.6,
+    "downloads": 1850000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 8800 }
+    ]
+  }
+]
