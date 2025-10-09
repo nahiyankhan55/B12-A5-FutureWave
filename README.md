@@ -33,4 +33,4 @@
 
 ## GitHub Repository
 
-- [https://github.com/nahiyankhan55/B12-A5-FutureWave](https://github.com/nahiyankhan55/B12-A5-FutureWave)
+- [https://github.com/nahiyankhan55/B12-A8-FutureWave](https://github.com/nahiyankhan55/B12-A8-FutureWave)
