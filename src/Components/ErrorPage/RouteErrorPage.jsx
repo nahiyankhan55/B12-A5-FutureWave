@@ -5,7 +5,7 @@ import { Link } from "react-router";
 
 const RouteErrorPage = () => {
   return (
-    <div className="flex flex-col items-center h-screen w-full">
+    <div className="flex flex-col items-center h-screen w-full max-w-[1440px] mx-auto">
       <NavbarSection></NavbarSection>
       <div className="flex-1">
         <div className="flex flex-col items-center w-full gap-2 py-20 text-center mt-10 px-5">

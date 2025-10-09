@@ -4,7 +4,7 @@ import webLogo from "/logo.png";
 
 const NavbarSection = () => {
   return (
-    <div className="flex items-center gap-5 py-5 bg-white shadow-md fixed z-50 w-full lg:px-14 md:px-10 px-5 justify-between">
+    <div className="flex items-center gap-5 py-5 max-w-[1440px] mx-auto bg-white shadow-md fixed z-50 w-full lg:px-14 md:px-10 px-5 justify-between">
       <div className="flex items-center gap-1">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost md:hidden">
